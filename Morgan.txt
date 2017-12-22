@@ -1,0 +1,18 @@
+You walk up to the man in pink.
+He gazes at you serenely before asking:
+
+Stranger: "Hello there, nice day we're having huh?"
+
+You look around the park, it is nice and quiet...perfect if not for that note you found earlier.
+
+[question=0]How do you reply?
+[choice1]1 With Admiration
+[choice2]2 With Anger
+[choice3]3 With Fear 
+[choice4]4 With Surprise 
+[choice5]5 With Joy
+[choice6]6 With Anticipation 
+[choice7]7 With Disguest 
+[choice8]8 With Sadness
+
+
